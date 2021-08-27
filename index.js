@@ -15,9 +15,9 @@ const info = require("./lib/info.js");
 /////////////////
 const BotName = 'GAARA BOT☄'; 
 const instagram = 'https://instagram.com/gaara_xploite.id'; 
-const telegram = 'https://t.me/reuzzz'; 
+const telegram = 'https://t.me/gaara'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const youtube = 'https://www.youtube.com/c/gaara_id';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
